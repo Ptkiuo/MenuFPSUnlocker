@@ -1,30 +1,39 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "mfpu",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "MenuFPSUnlocker",
+  "description": "Mod to extend the frame rate of the main menu from 30 to 120",
   "authors": [
-    "Me!"
+    "Ptki_uo"
   ],
   "contact": {
-    "homepage": "https://legacyfabric.net/",
-    "sources": "https://github.com/Legacy-Fabric/fabric-example-mod"
+    "homepage": "https://github.com/Ptkiuo",
+    "sources": "https://github.com/Ptkiuo/MenuFPSUnlocker"
   },
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/mfpu/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.ptk671.menufpsunlocker.MenuFPSUnlocker"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "mfpu.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.19",
-    "minecraft": "1.8.9"
+    "fabricloader": "*",
+    "minecraft": [
+      "1.7.x",
+      "1.8.x",
+      "1.9.x",
+      "1.10.x",
+      "1.11.x",
+      "1.12.x",
+      "1.13.x"
+    ]
+
   },
   "suggests": {
     "another-mod": "*"

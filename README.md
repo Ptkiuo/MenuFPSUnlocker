@@ -17,4 +17,3 @@ This mod raises the frame rate of the main menu from 30fps to 120fps
 1.10.x <br />
 1.11.x <br />
 1.12.x <br />
-1.13.x 

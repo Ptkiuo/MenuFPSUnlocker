@@ -1,10 +1,10 @@
 # Japanse
 
-メインメニューのフレームレートを30fpsから120fpsに引き上げるmodです <br />
+メインメニューのフレームレートを30fpsから120fpsに上げることで、メニュー画面の遅延を修正するMODです。 <br />
 
 # English
 
-This mod raises the frame rate of the main menu from 30fps to 120fps
+This mod fixes the delay in the menu screen by increasing the frame rate of the main menu from 30 fps to 120 fps.
 
 
 ### ModLoader

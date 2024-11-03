@@ -1,0 +1,10 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.ptk671.mfpu.mixin",
+    "refmap": "refmap.mfpu.json",
+    "mixins": [],
+    "client": [
+        "MixinMinecraft"
+    ],
+    "server": []
+}

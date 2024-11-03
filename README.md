@@ -11,7 +11,7 @@ This mod raises the frame rate of the main menu from 30fps to 120fps
 [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 
 ### Required mods
-[GTNH Mixins(1.7.10)](https://modrinth.com/mod/gtnhmixins)
+[UniMixins(1.7.10)](https://modrinth.com/mod/unimixins)
 
 ### MCVersion
 1.7.x <br />
